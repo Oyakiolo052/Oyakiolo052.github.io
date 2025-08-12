@@ -34,4 +34,4 @@ Shamimur completed his master's at the University of Saskatchewan, Canada, under
 
 Shamimur’s research focuses on empirical software engineering, data mining, and applying data-driven methods to enhance software engineering activities, with a particular emphasis on Code Review. His main objectives include discovering empirical findings, extracting valuable information from software repository data, generating practical insights for managing software projects, and creating automated tools to assist developers. Additionally, he explores the human aspects of software engineering, such as communication dynamics, developer satisfaction, and team performance, aiming to better understand and improve collaborative processes within software development teams.    
 
-Contact: <a>mdr614{at}usask{dot}ca</a>, <a>shamimur052{at}gmail{dot}com</a>
+Contact: <a href='#'>mdr614{at}usask{dot}ca</a>, <a href='#'>shamimur052{at}gmail{dot}com</a>
