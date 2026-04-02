@@ -8,13 +8,7 @@ category: Undergraduate
 related_publications: true
 ---
 
-Object-oriented design of formal abstract data types. This course focuses on data structure
-design and use in Java. Basic data structures are reviewed in an object-oriented context and
-new data structures and related algorithms are introduced: ordered trees, balanced trees, sim-
-ple spatial trees; graph representations and searching: path algorithms, depth/breadth first
-searches, direct and B-tree files; and advanced sorting algorithms. There is emphasis on algo-
-rithm analysis in the context of measuring the efficiency of various data structure operations
-and suitability of data structures to various tasks.
+Object-oriented design of formal abstract data types. This course focuses on data structure design and use in Java. Basic data structures are reviewed in an object-oriented context, and new data structures and related algorithms are introduced: ordered trees, balanced trees, simple spatial trees; graph representations and searching: path algorithms, depth/breadth first searches, direct and B-tree files; and advanced sorting algorithms. There is emphasis on algorithm analysis in the context of measuring the efficiency of various data structure operations and the suitability of data structures to various tasks.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
