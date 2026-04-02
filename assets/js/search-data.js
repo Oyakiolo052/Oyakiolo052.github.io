@@ -501,6 +501,11 @@ ninja.data = [{
           description: "Intermediate Data Structures and Algorithms",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/CMPT280_USask/";
+            },},{id: "teaching-cmpt-370",
+          title: 'CMPT 370',
+          description: "Intermediate Software Engineering",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/CMPT370_USask/";
             },},{
         id: 'social-email',
         title: 'email',
