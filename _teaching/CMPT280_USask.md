@@ -1,16 +1,20 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: CMPT 280
+description: Intermediate Data Structures and Algorithms
 img: assets/img/12.jpg
 importance: 1
 category: Undergraduate
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Object-oriented design of formal abstract data types. This course focuses on data structure
+design and use in Java. Basic data structures are reviewed in an object-oriented context and
+new data structures and related algorithms are introduced: ordered trees, balanced trees, sim-
+ple spatial trees; graph representations and searching: path algorithms, depth/breadth first
+searches, direct and B-tree files; and advanced sorting algorithms. There is emphasis on algo-
+rithm analysis in the context of measuring the efficiency of various data structure operations
+and suitability of data structures to various tasks.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
