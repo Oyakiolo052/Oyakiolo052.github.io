@@ -32,6 +32,26 @@
       "summary": "Classroom instruction for CMPT 280: Intermediate Data Structures and Algorithms, a second-year Computer Science course at the University of Saskatchewan.",
       "course_url": "https://catalogue.usask.ca/CMPT-280",
       "highlights": ["Data Structure", "Algorithms", "Java"]
+    },
+    {
+      "name": "Department of Computer Science, University of Saskatchewan",
+      "position": "Sessional Lecturer (Fall 2025)",
+      "url": "https://example.com",
+      "startDate": "2025-09-01",
+      "endDate": "2025-12-31",
+      "summary": "Classroom instruction for CMPT 370: Intermediate Software Engineering, a third-year project-based Computer Science course at the University of Saskatchewan.",
+      "course_url": "https://catalogue.usask.ca/CMPT-370",
+      "highlights": ["Software Engineering", "Software Development", "Team Work"]
+    },
+    {
+      "name": "Department of Computer Science, University of Saskatchewan",
+      "position": "Sessional Lecturer (Winter 2025)",
+      "url": "https://example.com",
+      "startDate": "2025-01-04",
+      "endDate": "2025-04-30",
+      "summary": "Classroom instruction for CMPT 370: Intermediate Software Engineering, a third-year project-based Computer Science course at the University of Saskatchewan.",
+      "course_url": "https://catalogue.usask.ca/CMPT-370",
+      "highlights": ["Software Engineering", "Software Development", "Team Work"]
     }
   ],
   "volunteer": [
