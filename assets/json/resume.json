@@ -31,6 +31,24 @@
       "endDate": "2026-08-31",
       "summary": "Classroom instruction for CMPT 280: Intermediate Data Structures and Algorithms (Summer 2026), and CMPT 370: Intermediate Software Engineering (Fall 2025 and Winter 2025), a second- and third-year Computer Science course at the University of Saskatchewan.",
       "highlights": ["CS Foundational Knowledge", "Software Engineering / Agile Development", "Team Project"]
+    },
+    {
+      "name": "Department of Computer Science, University of Saskatchewan",
+      "position": "Research Associate",
+      "url": "https://example.com",
+      "startDate": "2026-05-01",
+      "endDate": "2026-06-30",
+      "summary": "Interactive Software Engineering (iSE) Lab at the University of Saskatchewan, working with Dr. Banani Roy, Associate Professor and Lab Director. Responsibilities include research collaboration and mentoring new PhD students.",
+      "highlights": ["Research Collaboration", "Mentoring"]
+    },
+    {
+      "name": "Department of Computer Science and Engineering, Khulna University of Engineering & Technology, Bangladesh",
+      "position": "Lecturer",
+      "url": "https://example.com",
+      "startDate": "2016-03-27",
+      "endDate": "2026-04-25",
+      "summary": "",
+      "highlights": ["University Lecturing", "Undergraduate Project/thesis supervision"]
     }
   ],
   "volunteer": [
