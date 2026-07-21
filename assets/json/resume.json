@@ -35,16 +35,16 @@
     {
       "name": "Department of Computer Science, University of Saskatchewan",
       "position": "Research Associate",
-      "url": "https://example.com",
+      "url": "https://ise.usask.ca/",
       "startDate": "2026-05-01",
       "endDate": "2026-06-30",
       "summary": "Interactive Software Engineering (iSE) Lab at the University of Saskatchewan, working with Dr. Banani Roy, Associate Professor and Lab Director. Responsibilities include research collaboration and mentoring new PhD students.",
       "highlights": ["Research Collaboration", "Mentoring"]
     },
     {
-      "name": "Department of Computer Science and Engineering, Khulna University of Engineering & Technology, Bangladesh",
-      "position": "Lecturer",
-      "url": "https://example.com",
+      "name": "Department of Computer Science and Engineering (CSE), Khulna University of Engineering & Technology (KUET), Bangladesh",
+      "position": "Lecturer (Former)",
+      "url": "https://www.kuet.ac.bd/cse",
       "startDate": "2016-03-27",
       "endDate": "2026-04-25",
       "summary": "",
