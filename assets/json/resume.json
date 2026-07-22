@@ -69,6 +69,19 @@
       "highlights": ["University Lecturing"]
     }
   ],
+  "education": [
+    {
+      "institution": "University of Saskatchewan, Saskatoon, Canada",
+      "location": "Saskatoon, Canada",
+      "url": "https://www.usask.ca/",
+      "area": "Software Engineering",
+      "studyType": "PhD",
+      "startDate": "2021-09-01",
+      "endDate": "2026-08-31",
+      "score": "",
+      "highlights": ["Code Review", "Human Aspects of Software Engineering"]
+    }
+  ],
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -79,19 +92,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
