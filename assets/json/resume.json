@@ -49,6 +49,24 @@
       "endDate": "2026-04-25",
       "summary": "",
       "highlights": ["University Lecturing", "Undergraduate Project/thesis supervision"]
+    },
+    {
+      "name": "Department of Computer Science and Engineering (CSE), Primeasia University, Bangladesh",
+      "position": "Lecturer (Former)",
+      "url": "https://primeasia.edu.bd/cse/",
+      "startDate": "2015-05-01",
+      "endDate": "2016-03-26",
+      "summary": "",
+      "highlights": ["University Lecturing", "Undergraduate Project supervision"]
+    },
+    {
+      "name": "Department of Computer Science and Engineering (CSE), Brac University, Bangladesh",
+      "position": "Adjunct Lecturer (Former)",
+      "url": "https://cse.sds.bracu.ac.bd/",
+      "startDate": "2015-09-01",
+      "endDate": "2016-03-26",
+      "summary": "",
+      "highlights": ["University Lecturing"]
     }
   ],
   "volunteer": [
