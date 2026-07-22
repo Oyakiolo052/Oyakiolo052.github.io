@@ -79,7 +79,29 @@
       "startDate": "2021-09-01",
       "endDate": "2026-08-31",
       "score": "",
-      "highlights": ["Code Review", "Human Aspects of Software Engineering"]
+      "courses": ["Code Review", "Human Aspects of Software Engineering"]
+    },
+     {
+      "institution": "University of Saskatchewan, Saskatoon, Canada",
+      "location": "Saskatoon, Canada",
+      "url": "https://www.usask.ca/",
+      "area": "Software Engineering",
+      "studyType": "MSc",
+      "startDate": "2019-09-02",
+      "endDate": "2021-08-31",
+      "score": "",
+      "courses": ["Software Maintenance", "Software Bug", "Code Reuse"]
+    },
+    {
+      "institution": "Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh",
+      "location": "Khulna, Bangladesh",
+      "url": "https://www.kuet.ac.bd/",
+      "area": "Computer Science and Engineering (CSE)",
+      "studyType": "BSc",
+      "startDate": "2011-02-13",
+      "endDate": "2015-04-15",
+      "score": "",
+      "courses": [""]
     }
   ],
   "volunteer": [
