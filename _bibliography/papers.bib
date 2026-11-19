@@ -6,7 +6,7 @@
   title={Breaking the Alphabet: Rethinking File Ordering in Code Review},
   author={Rahman, Md Shamimur and Codabux, Zadia and Roy, Chanchal K},
   booktitle={2026 IEEE/ACM 22nd International Conference on Software Engineering (ICSE)},
-  pages={539--551},
+  pages={2492--2504},
   year={2026},
   organization={IEEE},
   abstract = {Effective code review is central to maintaining software quality, yet there is limited research about how the ordering of changed files in Pull Requests (PRs) influences review effectiveness. Most popular code review tools default to alphabetical ordering, favoring predictability over contextual relevance. While prior studies examined how file position shapes reviewer attention, it remains unclear how such ordering influences cognitive load and perceived review thoroughness. This study presents the first large-scale survey of 1,355 professional developers across 182 widely used open-source projects to investigate how file ordering impacts review behavior, comprehension, and perceived effectiveness. Our mixed-methods analysis reveals that only 10.2% of reviewers consider alphabetical ordering optimal, underscoring a cognitive misalignment in their interpretation of code changes. Although some developers appreciate its predictability, more than half (57.6%) report that it increases context switching, disrupts logical reasoning, and contributes to review fatigue, and 63.9% expressed concern that the default ordering may cause them to miss bugs. We further identify key challenges in multi-file reviews and elicit developers’ expectations for improved tooling, including dependency-aware grouping and customizable file ordering (requested by 66% of reviewers). These findings highlight the need for reviewer-centric interface designs that better align tool behavior with human cognition.},
@@ -23,7 +23,11 @@
   booktitle={2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR)},
   pages={539--551},
   year={2025},
-  organization={IEEE}
+  organization={IEEE},
+  abstract = {Code review is a widely adopted quality assurance practice in software engineering, where expert reviewers assess developers’ code changes before merging. While prior studies have explored review comment quality and usefulness, they often overlook the clarity and understandability of Code Change Request (CCR) comments. Unclear CCR comments can pose significant challenges for developers to address. Therefore, this study investigates the prevalence and impact of confusing or unclear CCR comments and proposes two approaches to enhance CCR communication during code review. Using a dataset of 182 open-source GitHub projects with over 55 K pull requests and 466 K CCR comments, we analyzed how often unclear comments occur and their effects on the review process. Our classifier, built from manually annotated developers’ replies in response to CCR comments, revealed that 24% of comments led to author confusion. Statistical analysis shows that unclear CCR comments significantly increase resolution time and discussion length, and that pull requests with clear CCR comments are more likely to be addressed and merged. A manual analysis of 400 confusing CCR comments identified six key characteristics, with lack of clarity and unclear rationale being the most common. Our first approach, the confusion classifier, flags authors’ confusion to enable reviewers to clarify ambiguities promptly (recall of 0.96), while the second classifier enables reviewers to evaluate the clarity and understandability of their CCR comments (recall of 0.93). This pioneering study further provides recommendations for enhancing CCR comments and offering a foundation for future research to streamline the review process.},
+  bibtex_show = {true},
+  html = {https://ieeexplore.ieee.org/document/11025749},
+  pdf = {MSR2025.pdf}
 }
 
 @inproceedings{billah2025automatic,
@@ -33,7 +37,11 @@
   author={Billah, Md Mustakim and Rahman, Md Shamimur and Roy, Banani},
   booktitle={Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering},
   pages={169--180},
-  year={2025}
+  year={2025},
+  abstract = {Method-level comments are critical for improving code comprehension and supporting software maintenance. With advancements in large language models (LLMs), automated comment generation has become a major research focus. However, existing approaches often overlook method dependencies, where one method relies on or calls others, affecting comment quality and code understandability. This study investigates the prevalence and impact of dependent methods in software projects and introduces a dependency-aware approach for method-level comment generation. Analyzing a dataset of 10 popular Java GitHub projects, we found that dependent methods account for 69.25% of all methods and exhibit higher engagement and change proneness compared to independent methods. Across 448K dependent and 199K independent methods, we observed that state-of-the-art fine-tuned models (e.g., CodeT5+, CodeBERT) struggle to generate comprehensive comments for dependent methods, a trend also reflected in LLM-based approaches like ASAP. To address this, we propose HelpCOM, a novel dependency-aware technique that incorporates helper method information to improve comment clarity, comprehensiveness, and relevance. Experiments show that HelpCOM outperforms baseline methods by 5.6% to 50.4% across syntactic (e.g., BLEU), semantic (e.g., SentenceBERT), and LLM-based evaluation metrics. A survey of 156 software practitioners further confirms that HelpCOM significantly improves the comprehensibility of code involving dependent methods, highlighting its potential to enhance documentation, maintainability, and developer productivity in large-scale systems.},
+  bibtex_show = {true},
+  html = {https://dl.acm.org/doi/10.1145/3756681.3756977},
+  pdf = {EASE2025.pdf}
 }
 
 @article{rahman2024words,
@@ -46,7 +54,11 @@
   number={FSE},
   pages={1632--1655},
   year={2024},
-  publisher={ACM New York, NY, USA}
+  publisher={ACM New York, NY, USA},
+  abstract = {Modern Code Review (MCR) is an integral part of the software development process where developers improve product quality through collaborative discussions. Unfortunately, these discussions can sometimes become heated by the presence of inappropriate behaviors such as personal attacks, insults, disrespectful comments, and derogatory conduct, often referred to as incivility. While researchers have extensively explored such incivility in various public domains, our understanding of its causes, consequences, and courses of action remains limited within the professional context of software development, specifically within code review discussions. To bridge this gap, our study draws upon the experience of 171 professional software developers representing diverse development practices across different geographical regions. Our findings reveal that more than half of these developers 56.72% have encountered instances of workplace incivility, and a substantial portion of that group 83.70% reported experiencing such incidents at least once a month. We also identified various causes, positive and negative consequences, and potential courses of action for uncivil communication. Moreover, to address the negative aspects of incivility, we propose a model for promoting civility that detects uncivil comments during communication and provides alternative civil suggestions while preserving the original comments’ semantics, enabling developers to engage in respectful and constructive discussions. An in-depth analysis of 2K uncivil review comments using eight different evaluation metrics and a manual evaluation suggested that our proposed approach could generate civil alternatives significantly compared to the state-of-the-art politeness and detoxification models. Moreover, a survey involving 36 developers who used our civility model reported its effectiveness in enhancing online development interactions, fostering better relationships, increasing contributor involvement, and expediting development processes. Our research is a pioneer in generating civil alternatives for uncivil discussions in software development, opening new avenues for research in collaboration and communication within the software engineering context.},
+  bibtex_show = {true},
+  html = {https://dl.acm.org/doi/10.1145/3660780},
+  pdf = {FSE2024.pdf}
 }
 
 @inproceedings{rahman2023integrating,
