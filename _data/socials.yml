@@ -8,8 +8,8 @@
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: shamimur052@gmail.com # your email address
-# facebook_id: # your facebook id
-# flickr_id: # your flickr id
+facebook_id: shamimur.rahman.1420 # your facebook id
+flickr_id: Sham052 # your flickr id
 # github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
@@ -30,7 +30,7 @@ orcid_id: 0009-0001-5355-4600 # your ORCID ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: false # comment this line to hide the RSS icon
+# rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: https://scholar.google.com/citations?user=WZSFwIEAAAAJ&hl=en # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
