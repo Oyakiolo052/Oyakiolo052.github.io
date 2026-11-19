@@ -479,18 +479,18 @@ ninja.data = [{
           window.open("mailto:%73%68%61%6D%69%6D%75%72%30%35%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/shamimur052/", "_blank");
+          window.open("https://www.linkedin.com/in/shamimur052", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0001-5355-4600# your ORCID ID", "_blank");
         },
       },{
         id: 'social-rss',
