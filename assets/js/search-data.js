@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'Flickr',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.flickr.com/Sham052", "_blank");
+          window.open("https://www.flickr.com/138912419@N06", "_blank");
         },
       },{
         id: 'social-linkedin',
