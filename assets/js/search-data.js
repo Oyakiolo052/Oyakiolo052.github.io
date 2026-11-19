@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0001-5355-4600# your ORCID ID", "_blank");
+          window.open("https://orcid.org/0009-0001-5355-4600", "_blank");
         },
       },{
         id: 'social-rss',
