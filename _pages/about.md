@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room 254</p>
     <p>176 Thorvaldson Building</p>
-    <p> 110 Science Place, University of Saskatchewan</p> 
+    <p>110 Science Place, University of Saskatchewan</p> 
     <p>Saskatoon, Saskatchewan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
