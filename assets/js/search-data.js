@@ -479,6 +479,20 @@ ninja.data = [{
           window.open("mailto:%73%68%61%6D%69%6D%75%72%30%35%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-facebook',
+        title: 'Facebook',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://facebook.com/shamimur.rahman.1420", "_blank");
+        },
+      },{
+        id: 'social-flickr',
+        title: 'Flickr',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.flickr.com/Sham052", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -491,13 +505,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0001-5355-4600", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
