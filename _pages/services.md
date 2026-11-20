@@ -29,7 +29,7 @@ nav_order: 5
     </div>
     <div class="service-info">
       <a href="https://csgc.usask.ca/" target="_blank" rel="noopener noreferrer">
-          <strong>Computer Science Graduate Council (CSGC), University of Saskatchewan</strong>>
+          <strong>Computer Science Graduate Council (CSGC), University of Saskatchewan</strong>
       </a>      
       <p>President</p>
     </div>
@@ -41,7 +41,7 @@ nav_order: 5
     </div>
     <div class="service-info">
       <a href="https://csgc.usask.ca/" target="_blank" rel="noopener noreferrer">
-          <strong>Computer Science Graduate Council (CSGC), University of Saskatchewan</strong>>
+          <strong>Computer Science Graduate Council (CSGC), University of Saskatchewan</strong>
       </a> 
       <p>Ph.D. Representative</p>
     </div>
