@@ -105,7 +105,7 @@ nav_order: 5
       <a href="https://2027.msrconf.org/committee/msr-2027-junior-pc-technical-papers---junior-program-committee" target="_blank" rel="noopener noreferrer">
           <strong>International Conference on Mining Software Repositories</strong>
       </a>
-      <p>Junior Program Committee, Research Track</p>
+      <p>Technical Research</p>
     </div>
   </div>
 
@@ -117,7 +117,163 @@ nav_order: 5
       <a href="https://conf.researchr.org/committee/ease-2027/ease-2027-posters-and-vision-posters-and-vision" target="_blank" rel="noopener noreferrer">
           <strong>International Conference on Evaluation and Assessment</strong>
       </a>
-      <p>Program Committee, Posters and Vision</p>
+      <p>Posters and Vision</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>HUGS 2027</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/committee/icse-2027/hugs-2027-papers-program-committee" target="_blank" rel="noopener noreferrer">
+          <strong>International Workshop on Human-First Generative Software Engineering</strong>
+      </a>
+      <p>Workshop proceedings</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>ICSE 2027</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/track/icse-2027/icse-2027-shadow-research-track-program-committee" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Software Engineering</strong>
+      </a>
+      <p>Shadow PC Member, Technical Research</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>ESEM 2026</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/committee/eseiw-2026/eseiw-2026-emerging-results-and-vision-track-contact" target="_blank" rel="noopener noreferrer">
+          <strong>International Symposium on Empirical Software Engineering and Measurement</strong>
+      </a>
+      <p>Emerging Results, Vision, and Reflection</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>FSE 2026</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/committee/fse-2026/fse-2026-ideas-visions-and-reflections-program-committee" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on the Foundations of Software Engineering</strong>
+      </a>
+      <p>Ideas, Visions and Reflections</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>(AIware 2026</span>
+    </div>
+    <div class="service-info">
+      <a href="https://2026.aiwareconf.org/committee/aiware-2026-papers-program-committee" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on AI‑powered Software</strong>
+      </a>
+      <p>Technical Research</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>(SANER 2026</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/committee/saner-2026/saner-2026-short-papers-and-posters-track-program-commitee" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Software Analysis, Evolution and Reengineering</strong>
+      </a>
+      <p>Short Papers and Posters</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>(EASE 2026</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/committee/ease-2026/ease-2026-posters-and-vision-posters-and-vision" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Evaluation and Assessment in Software Engineering</strong>
+      </a>
+      <p>Posters and Vision</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>ICSE 2026</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/track/icse-2026/icse-2026-shadow-research-track-program-committee" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Software Engineering</strong>
+      </a>
+      <p>Shadow PC Member, Technical Research</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>EASE 2025</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/committee/ease-2025/ease-2025-posters-and-vision-posters-and-vision" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Evaluation and Assessment in Software Engineering</strong>
+      </a>
+      <p>Posters and Vision</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>MSR 2025</span>
+    </div>
+    <div class="service-info">
+      <a href="https://2025.msrconf.org/committee/msr-2025-junior-pc-technical-papers---junior-program-committee" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Mining Software Repositories</strong>
+      </a>
+      <p>Technical Research</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>MSR 2024</span>
+    </div>
+    <div class="service-info">
+      <a href="https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Mining Software Repositories</strong>
+      </a>
+      <p>Technical Research</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>ASE 2024</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/committee/ase-2024/ase-2024-artifact-evaluation-track-fatemeh-" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Automated Software Engineering</strong>
+      </a>
+      <p>Artifact Evaluation</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>ISEC 2022</span>
+    </div>
+    <div class="service-info">
+      <a href="https://isoft.acm.org/isec2022/" target="_blank" rel="noopener noreferrer">
+          <strong>Innovation in Software Engineering Conference</strong>
+      </a>
+      <p>Technical Research</p>
     </div>
   </div>
 
