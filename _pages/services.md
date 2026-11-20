@@ -171,7 +171,7 @@ nav_order: 5
 
   <div class="service-entry">
     <div class="service-year">
-      <span>(AIware 2026</span>
+      <span>AIware 2026</span>
     </div>
     <div class="service-info">
       <a href="https://2026.aiwareconf.org/committee/aiware-2026-papers-program-committee" target="_blank" rel="noopener noreferrer">
@@ -183,7 +183,7 @@ nav_order: 5
 
   <div class="service-entry">
     <div class="service-year">
-      <span>(SANER 2026</span>
+      <span>SANER 2026</span>
     </div>
     <div class="service-info">
       <a href="https://conf.researchr.org/committee/saner-2026/saner-2026-short-papers-and-posters-track-program-commitee" target="_blank" rel="noopener noreferrer">
@@ -195,7 +195,7 @@ nav_order: 5
 
   <div class="service-entry">
     <div class="service-year">
-      <span>(EASE 2026</span>
+      <span>EASE 2026</span>
     </div>
     <div class="service-info">
       <a href="https://conf.researchr.org/committee/ease-2026/ease-2026-posters-and-vision-posters-and-vision" target="_blank" rel="noopener noreferrer">
