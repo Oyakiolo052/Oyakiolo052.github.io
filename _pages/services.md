@@ -99,11 +99,25 @@ nav_order: 5
 
   <div class="service-entry">
     <div class="service-year">
-      <span>ICSE 2027</span>
+      <span>MSR 2027</span>
     </div>
     <div class="service-info">
-      <strong>International Conference on Software Engineering</strong>
-      <p>Shadow Program Committee</p>
+      <a href="https://2027.msrconf.org/committee/msr-2027-junior-pc-technical-papers---junior-program-committee" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Mining Software Repositories</strong>
+      </a>
+      <p>Junior Program Committee, Research Track</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>EASE 2027</span>
+    </div>
+    <div class="service-info">
+      <a href="https://conf.researchr.org/committee/ease-2027/ease-2027-posters-and-vision-posters-and-vision" target="_blank" rel="noopener noreferrer">
+          <strong>International Conference on Evaluation and Assessment</strong>
+      </a>
+      <p>Program Committee, Posters and Vision</p>
     </div>
   </div>
 
