@@ -70,25 +70,25 @@ nav_order: 5
 
   <div class="service-entry">
     <div class="service-year">
-      <span>TOSEM</span>
+      <span>2026 - PRESENT</span>
     </div>
     <div class="service-info">
       <a href="https://dl.acm.org/journal/tosem">
-        ACM Transactions on Software Engineering and Methodology
+        ACM Transactions on Software Engineering and Methodology (TOSEM)
       </a>
-      <p>Journal Reviewer</p>
+      <p>Impact Factor: 4.4</p>
     </div>
   </div>
 
   <div class="service-entry">
     <div class="service-year">
-      <span>EMSE</span>
+      <span>2026 - PRESENT</span>
     </div>
     <div class="service-info">
       <a href="https://link.springer.com/journal/10664">
-        Empirical Software Engineering
+        Springer Journal of Empirical Software Engineering (EMSE)
       </a>
-      <p>Journal Reviewer</p>
+      <p>Impact Factor: 4.1</p>
     </div>
   </div>
 
