@@ -14,7 +14,7 @@ nav_order: 5
 <div class="service-toc">
   <a href="#leadership">Leadership</a>
   <a href="#organizing">Organizing Committee</a>
-  <a href="#awards">Award Committee</a>
+  <!-- <a href="#awards">Award Committee</a> -->
   <a href="#journals">Journal Referee</a>
   <a href="#program">Program Committee</a>
   <a href="#reviewer">Additional Reviewer</a>
@@ -28,8 +28,22 @@ nav_order: 5
       <span>2024 - 2025</span>
     </div>
     <div class="service-info">
-      <strong>Computer Science Graduate Council</strong>
-      <p>President, University of Saskatchewan</p>
+      <a href="https://csgc.usask.ca/" target="_blank" rel="noopener noreferrer">
+          <strong>Computer Science Graduate Council (CSGC), University of Saskatchewan</strong>>
+      </a>      
+      <p>President</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>2021 - 2022</span>
+    </div>
+    <div class="service-info">
+      <a href="https://csgc.usask.ca/" target="_blank" rel="noopener noreferrer">
+          <strong>Computer Science Graduate Council (CSGC), University of Saskatchewan</strong>>
+      </a> 
+      <p>Ph.D. Representative</p>
     </div>
   </div>
 
@@ -43,14 +57,40 @@ nav_order: 5
       <span>2025</span>
     </div>
     <div class="service-info">
-      <strong>Computer Science Research Fest 2025</strong>
+      <a href="https://csgc.usask.ca/research-fest-2025/" target="_blank" rel="noopener noreferrer">
+        <strong>Computer Science Research Fest 2025, University of Saskatchewan</strong>
+      </a>
       <p>Lead organizer</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>2022</span>
+    </div>
+    <div class="service-info">
+      <a href="https://csgc.usask.ca/research-fest-2022/" target="_blank" rel="noopener noreferrer">
+        <strong>Computer Science Research Fest 2022, University of Saskatchewan</strong>
+      </a>
+      <p>Executive Member</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>2017</span>
+    </div>
+    <div class="service-info">
+      <a href="https://toph.co/nhspc" target="_blank" rel="noopener noreferrer">
+        <strong>National High School Programming Contest (NHSPC), KUET, Bangladesh</strong>
+      </a>
+      <p>Executive Member</p>
     </div>
   </div>
 
 </div>
 
-<div class="service-card" id="awards">
+<!-- <div class="service-card" id="awards">
   <h2>Award Committee</h2>
 
   <div class="service-entry">
@@ -63,7 +103,7 @@ nav_order: 5
     </div>
   </div>
 
-</div>
+</div> -->
 
 <div class="service-card" id="journals">
   <h2>Journal Referee</h2>
