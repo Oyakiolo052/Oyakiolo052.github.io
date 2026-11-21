@@ -86,7 +86,12 @@
       "startDate": "2019-09-02",
       "endDate": "2021-08-31",
       "score": "",
-      "courses": ["Software Maintenance", "Software Bug", "Code Reuse"]
+      "courses": [
+        "Thesis: Aspect of Code Cloning Towards Software Bug and Imminent Maintenance: A Perspective on Open-source and Industrial Mobile Applications",
+        "Supervisor: Prof. Chanchal K. Roy"
+      ],
+      "thesis_url": "https://harvest.usask.ca/items/132694b7-4046-4da7-8d96-850efb95b6aa",
+      "summary": "Investigated code cloning in open-source and industrial mobile applications, focusing on its relationship with software bugs and maintenance activities. The research examined clone-related characteristics and their implications for software quality and maintenance, providing empirical insights into the role of code clones in software evolution."
     },
     {
       "institution": "Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh",
