@@ -43,10 +43,25 @@
           <ul class="items">
             {% for item in content.courses %}
               <li>
-                <span class="item">{{ item }}</span>
+                {% if item contains 'Thesis:' and content.thesis_url %}
+                  <span class="item">
+                    <strong>Thesis:</strong>
+                    <a href="{{ content.thesis_url }}" target="_blank" rel="noopener noreferrer">
+                      {{ item | remove_first: 'Thesis:' | strip }}
+                    </a>
+                  </span>
+                {% else %}
+                  <span class="item">{{ item }}</span>
+                {% endif %}
               </li>
             {% endfor %}
           </ul>
+
+          {% if content.summary and content.summary != '' %}
+            <p class="ml-1 ml-md-4 mt-2" style="font-size: 0.9rem">
+              {{ content.summary }}
+            </p>
+          {% endif %}
         </div>
       </div>
     </li>
