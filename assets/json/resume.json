@@ -66,7 +66,7 @@
       "location": "Saskatoon, Canada",
       "url": "https://www.usask.ca/",
       "area": "Software Engineering",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy (PhD) in Computer Science",
       "startDate": "2021-09-01",
       "endDate": "2026-10-29",
       "score": "",
@@ -82,7 +82,7 @@
       "location": "Saskatoon, Canada",
       "url": "https://www.usask.ca/",
       "area": "Software Engineering",
-      "studyType": "MSc",
+      "studyType": "Master of Science (MSc) in Computer Science",
       "startDate": "2019-09-02",
       "endDate": "2021-08-31",
       "score": "",
@@ -97,11 +97,15 @@
       "institution": "Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh",
       "location": "Khulna, Bangladesh",
       "url": "https://www.kuet.ac.bd/",
-      "area": "Computer Science and Engineering (CSE)",
+      "area": "Bachelor of Science (BSc) in Computer Science and Engineering",
       "studyType": "BSc",
       "startDate": "2011-02-13",
       "endDate": "2015-04-15",
-      "score": ""
+      "score": "",
+      "courses": [
+        "Thesis: Soft Error Tolerance Using HVDQ (Horizontal‑Vertical‑Diagonal‑Queen Parity Method",
+        "Supervisor: Prof. Muhammad Sheikh Sadi"
+      ]
     }
   ],
   "volunteer": [
