@@ -4,9 +4,7 @@
     "label": "SE Researcher",
     "image": "",
     "email": "shamimur.rahman@usask.ca",
-    "phone": "(000) 123-4567",
-    "url": "https://oyakiolo052.github.io/",
-    "summary": "A Bangladeshi-born Software Engineering Researcher, working on Code Review and human aspects of Software Engineering",
+    "summary": "Software Engineering researcher with a PhD in Computer Science, specializing in empirical software engineering, modern code review, and human-centered software development. My current research focuses on trustworthy AI-assisted software engineering, particularly the quality, understandability, and reviewability of AI-generated software.",
     "location": {
       "address": "176 Thorvaldson Building",
       "postalCode": "S7N 5C9",
@@ -14,14 +12,6 @@
       "countryCode": "Canada",
       "region": "Saskatchewan"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
       "name": "Department of Computer Science, University of Saskatchewan",
@@ -37,7 +27,7 @@
       "position": "Research Associate",
       "url": "https://ise.usask.ca/",
       "startDate": "2026-05-01",
-      "endDate": "2026-06-30",
+      "endDate": "2026-10-30",
       "summary": "Interactive Software Engineering (iSE) Lab at the University of Saskatchewan, working with Dr. Banani Roy, Associate Professor and Lab Director. Responsibilities include research collaboration and mentoring new PhD students.",
       "highlights": ["Research Collaboration", "Mentoring"]
     },
@@ -60,13 +50,13 @@
       "highlights": ["University Lecturing", "Undergraduate Project supervision"]
     },
     {
-      "name": "Department of Computer Science and Engineering (CSE), Brac University, Bangladesh",
+      "name": "Department of Computer Science and Engineering (CSE), BRAC University, Bangladesh",
       "position": "Adjunct Lecturer (Former)",
       "url": "https://cse.sds.bracu.ac.bd/",
       "startDate": "2015-09-01",
       "endDate": "2016-03-26",
       "summary": "",
-      "highlights": ["University Lecturing"]
+      "highlights": ["University Lecturing/tutorials"]
     }
   ],
   "education": [
@@ -75,12 +65,17 @@
       "location": "Saskatoon, Canada",
       "url": "https://www.usask.ca/",
       "area": "Software Engineering",
-      "studyType": "PhD (Ongoing)",
+      "studyType": "PhD",
       "startDate": "2021-09-01",
-      "endDate": "2026-08-31",
+      "endDate": "2026-10-29",
       "score": "",
-      "courses": ["Code Review", "Human Aspects of Software Engineering"]
-    },
+      "courses": [
+        "Thesis: Beyond the Quality Gate: Understanding and Improving Developer Satisfaction for Sustainable Code Review",
+        "Supervisors: Prof. Chanchal K. Roy and Dr. Zadia Codabux"
+      ],
+      "thesis_url": "https://harvest.usask.ca/items/f435e9ab-28fe-4e47-8a53-b92f57dc04fc",
+      "summary": "Investigated modern code review as a socio-technical process, focusing on developer satisfaction, code comprehension, and collaboration. Through empirical studies and data-driven approaches, the research examined reviewer selection, file ordering, review comment clarity, incivility, and pull request stalling. The findings offer practical insights and recommendations for improving code review effectiveness and developer experience."
+     },
      {
       "institution": "University of Saskatchewan, Saskatoon, Canada",
       "location": "Saskatoon, Canada",
