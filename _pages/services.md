@@ -324,21 +324,71 @@ nav_order: 5
 
   <div class="service-entry">
     <div class="service-year">
-      <span>ICSE</span>
+      <span>ASE 2026</span>
     </div>
     <div class="service-info">
-      <strong>International Conference on Software Engineering</strong>
-      <p>Conference Reviewer</p>
+      <strong>International Conference on Automated Software Engineering</strong>
+      <p>Technical Research</p>
     </div>
   </div>
 
   <div class="service-entry">
     <div class="service-year">
-      <span>FSE</span>
+      <span>SCAM 2026</span>
     </div>
     <div class="service-info">
-      <strong>ACM International Conference on the Foundations of Software Engineering</strong>
-      <p>Conference Reviewer</p>
+      <strong>International Conference on Source Code Analysis and Manipulation</strong>
+      <p>Technical Research</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>ICSME 2026</span>
+    </div>
+    <div class="service-info">
+      <strong>International Conference on Software Maintenance and Evolution</strong>
+      <p>Replication and Negative Results (RENE)</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>ICSME 2026</span>
+    </div>
+    <div class="service-info">
+      <strong>International Conference on Software Maintenance and Evolution</strong>
+      <p>Replication and Negative Results (RENE)</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>FSE 2024</span>
+    </div>
+    <div class="service-info">
+      <strong>International Conference on the Foundations of Software Engineering</strong>
+      <p>Industry Papers</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>ICSE 2024</span>
+    </div>
+    <div class="service-info">
+      <strong>International Conference on Software Engineering</strong>
+      <p>Artifact Review</p>
+    </div>
+  </div>
+
+  <div class="service-entry">
+    <div class="service-year">
+      <span>RE 2023</span>
+    </div>
+    <div class="service-info">
+      <strong> International Requirements Engineering Conference</strong>
+      <p>Posters and Tool Demos</p>
     </div>
   </div>
 
