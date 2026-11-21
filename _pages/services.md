@@ -354,16 +354,6 @@ nav_order: 5
 
   <div class="service-entry">
     <div class="service-year">
-      <span>ICSME 2026</span>
-    </div>
-    <div class="service-info">
-      <strong>International Conference on Software Maintenance and Evolution</strong>
-      <p>Replication and Negative Results (RENE)</p>
-    </div>
-  </div>
-
-  <div class="service-entry">
-    <div class="service-year">
       <span>FSE 2024</span>
     </div>
     <div class="service-info">
