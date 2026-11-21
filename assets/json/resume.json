@@ -11,7 +11,8 @@
       "city": "Saskatoon",
       "countryCode": "Canada",
       "region": "Saskatchewan"
-    },
+    }
+  },
   "work": [
     {
       "name": "Department of Computer Science, University of Saskatchewan",
