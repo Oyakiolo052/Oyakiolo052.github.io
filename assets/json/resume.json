@@ -97,8 +97,8 @@
       "institution": "Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh",
       "location": "Khulna, Bangladesh",
       "url": "https://www.kuet.ac.bd/",
-      "area": "Bachelor of Science (BSc) in Computer Science and Engineering",
-      "studyType": "BSc",
+      "area": "Fault Tolerant System",
+      "studyType": "Bachelor of Science (BSc) in Computer Science and Engineering",
       "startDate": "2011-02-13",
       "endDate": "2015-04-15",
       "score": "",
@@ -106,18 +106,6 @@
         "Thesis: Soft Error Tolerance Using HVDQ (Horizontal‑Vertical‑Diagonal‑Queen Parity Method",
         "Supervisor: Prof. Muhammad Sheikh Sadi"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "awards": [
