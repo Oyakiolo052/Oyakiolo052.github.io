@@ -1,3 +1,4 @@
+
 <div class="list-groups">
   {% assign certificates = data[1] | sort: 'date' | reverse %}
   {% for content in certificates %}
@@ -12,22 +13,42 @@
             {% else %}
               <td class="list-group-category-icon"></td>
             {% endif %}
-            <!-- Calculate colspan number for category title -->
-            {% assign i = 1 %}
-            {% for item in content.items %}
-              {% assign i = i | plus: 1 %}
-            {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">
-              <a href="{{ content.url | default: # }}">{{ content.name }}</a>
+
+            <td colspan="2" class="list-group-category">
+              {% if content.url and content.url != '' %}
+                <a href="{{ content.url }}" target="_blank" rel="noopener noreferrer">
+                  <strong>{{ content.name }}</strong>
+                </a>
+              {% else %}
+                <strong>{{ content.name }}</strong>
+              {% endif %}
             </td>
           </tr>
+
+          <!-- Issuing organization and date -->
           <tr>
             <td></td>
             <td class="list-group-name">
-              <b>{{ content.issuer }}</b>
+              <strong>{{ content.issuer }}</strong>
             </td>
-            <td class="list-group-name">{{ content.date }}</td>
+            <td class="list-group-name" style="text-align: right; white-space: nowrap;">
+              {% if content.date and content.date != '' %}
+                {{ content.date | date: '%Y' }}
+              {% endif %}
+            </td>
           </tr>
+
+          <!-- Certification summary -->
+          {% if content.summary and content.summary != '' %}
+            <tr>
+              <td></td>
+              <td colspan="2" class="list-group-name">
+                <p style="margin-top: 5px; margin-bottom: 10px; font-size: 0.9rem; line-height: 1.6; font-weight: normal;">
+                  {{ content.summary }}
+                </p>
+              </td>
+            </tr>
+          {% endif %}
         </tbody>
       </table>
     </div>
