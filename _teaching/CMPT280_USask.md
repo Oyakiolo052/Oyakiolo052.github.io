@@ -5,7 +5,7 @@ title: CMPT 280
 description: Intermediate Data Structures and Algorithms
 university: University of Saskatchewan
 semester: Summer 2026
-img: assets/img/12.jpg
+img: assets/img/cmpt280.jpg
 importance: 1
 category: Undergraduate
 related_publications: false
