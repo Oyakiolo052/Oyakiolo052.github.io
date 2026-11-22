@@ -1,3 +1,4 @@
+
 <div class="col">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
     <div class="card h-100 hoverable">
@@ -7,13 +8,31 @@
           loading="eager"
           path=project.img
           sizes = "250px"
-          alt="project thumbnail"
+          alt="course thumbnail"
           class="card-img-top"
         %}
       {% endif %}
+
       <div class="card-body">
+        <!-- Course title -->
         <h2 class="card-title">{{ project.title }}</h2>
-        <p class="card-text">{{ project.description }}</p>
+
+        <!-- University and semester -->
+        {% if project.university %}
+          <p class="card-text" style="font-size: 0.9rem; margin-bottom: 6px;">
+            <strong>{{ project.university }}</strong>
+            {% if project.semester %}
+              ({{ project.semester }})
+            {% endif %}
+          </p>
+        {% endif %}
+
+        <!-- Course description -->
+        {% if project.description %}
+          <p class="card-text">{{ project.description }}</p>
+        {% endif %}
+
+        <!-- GitHub repository -->
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">
