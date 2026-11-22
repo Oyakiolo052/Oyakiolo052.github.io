@@ -12,22 +12,22 @@ related_publications: false
 
 <link rel="stylesheet" href="{{ '/assets/css/course-page.css' | relative_url }}">
 
-<div class="course280">
+<div class="course cmpt280">
 
   <!-- Course banner -->
-  <div class="course280-hero">
-    <div class="course280-labels">
+  <div class="course-hero">
+    <div class="course-labels">
       <span>Undergraduate</span>
       <span>Summer 2026</span>
     </div>
 
     <h2>Intermediate Data Structures and Algorithms</h2>
 
-    <p class="course280-hero-subtitle">
+    <p class="course-hero-subtitle">
       University of Saskatchewan | CMPT 280.3
     </p>
 
-    <p class="course280-hero-description">
+    <p class="course-hero-description">
       Exploring the design, implementation, and analysis of data
       structures and algorithms through Java, object-oriented
       programming, and computational problem solving.
@@ -35,20 +35,20 @@ related_publications: false
   </div>
 
   <!-- Course highlights -->
-  <div class="course280-highlights">
-    <div class="course280-stat">
+  <div class="course-highlights">
+    <div class="course-stat">
       <i class="fa-solid fa-users"></i>
       <strong>~65</strong>
       <span>Students</span>
     </div>
 
-    <div class="course280-stat">
+    <div class="course-stat">
       <i class="fa-solid fa-code"></i>
       <strong>Java</strong>
       <span>Programming Language</span>
     </div>
 
-    <div class="course280-stat">
+    <div class="course-stat">
       <i class="fa-solid fa-chalkboard-user"></i>
       <strong>In Person</strong>
       <span>Delivery Mode</span>
@@ -56,7 +56,7 @@ related_publications: false
   </div>
 
   <!-- Course Overview -->
-  <section class="course280-section" id="overview">
+  <section class="course-section" id="overview">
     <h2>Course Overview</h2>
 
     <p>
@@ -78,7 +78,7 @@ related_publications: false
       structures and algorithms to solve practical problems.
     </p>
 
-    <div class="course280-info">
+    <div class="course-info">
       <div>
         <span>Instructor</span>
         <strong>Md Shamimur Rahman</strong>
@@ -99,7 +99,7 @@ related_publications: false
   </section>
 
   <!-- Learning Outcomes -->
-  <section class="course280-section" id="outcomes">
+  <section class="course-section" id="outcomes">
     <h2>Learning Outcomes</h2>
 
     <p>
@@ -107,9 +107,9 @@ related_publications: false
       be able to:
     </p>
 
-    <div class="course280-grid">
+    <div class="course-grid">
 
-      <div class="course280-card">
+      <div class="course-card">
         <i class="fa-solid fa-layer-group"></i>
         <h3>Understand Data Structures</h3>
         <p>
@@ -118,7 +118,7 @@ related_publications: false
         </p>
       </div>
 
-      <div class="course280-card">
+      <div class="course-card">
         <i class="fa-solid fa-code"></i>
         <h3>Design and Implement</h3>
         <p>
@@ -127,7 +127,7 @@ related_publications: false
         </p>
       </div>
 
-      <div class="course280-card">
+      <div class="course-card">
         <i class="fa-solid fa-chart-line"></i>
         <h3>Analyze Efficiency</h3>
         <p>
@@ -136,7 +136,7 @@ related_publications: false
         </p>
       </div>
 
-      <div class="course280-card">
+      <div class="course-card">
         <i class="fa-solid fa-diagram-project"></i>
         <h3>Apply Graph Algorithms</h3>
         <p>
@@ -145,7 +145,7 @@ related_publications: false
         </p>
       </div>
 
-      <div class="course280-card">
+      <div class="course-card">
         <i class="fa-solid fa-gears"></i>
         <h3>Select Algorithms</h3>
         <p>
@@ -154,7 +154,7 @@ related_publications: false
         </p>
       </div>
 
-      <div class="course280-card">
+      <div class="course-card">
         <i class="fa-solid fa-vial-circle-check"></i>
         <h3>Test Implementations</h3>
         <p>
@@ -167,7 +167,7 @@ related_publications: false
   </section>
 
   <!-- Course Topics -->
-  <section class="course280-section" id="topics">
+  <section class="course-section" id="topics">
     <h2>Course Topics</h2>
 
     <p>
@@ -175,7 +175,7 @@ related_publications: false
       of data structures, algorithms, and software development.
     </p>
 
-    <div class="course280-topic">
+    <div class="course-topic">
       <h3>
         <i class="fa-solid fa-list"></i>
         Linear Data Structures and ADTs
@@ -187,7 +187,7 @@ related_publications: false
       </p>
     </div>
 
-    <div class="course280-topic">
+    <div class="course-topic">
       <h3>
         <i class="fa-solid fa-code-branch"></i>
         Trees and Dictionaries
@@ -199,7 +199,7 @@ related_publications: false
       </p>
     </div>
 
-    <div class="course280-topic">
+    <div class="course-topic">
       <h3>
         <i class="fa-solid fa-diagram-project"></i>
         Graph Algorithms
@@ -211,7 +211,7 @@ related_publications: false
       </p>
     </div>
 
-    <div class="course280-topic">
+    <div class="course-topic">
       <h3>
         <i class="fa-solid fa-arrow-down-short-wide"></i>
         Sorting and Algorithm Analysis
@@ -223,7 +223,7 @@ related_publications: false
       </p>
     </div>
 
-    <div class="course280-topic">
+    <div class="course-topic">
       <h3>
         <i class="fa-solid fa-flask"></i>
         Software Testing
@@ -236,7 +236,7 @@ related_publications: false
   </section>
 
   <!-- Teaching Approach -->
-  <section class="course280-section" id="teaching-approach">
+  <section class="course-section" id="teaching-approach">
     <h2>Teaching and Learning Approach</h2>
 
     <p>
@@ -244,7 +244,7 @@ related_publications: false
       implementation and problem-solving activities.
     </p>
 
-    <div class="course280-methods">
+    <div class="course-methods">
 
       <div>
         <i class="fa-solid fa-chalkboard-user"></i>
@@ -295,7 +295,7 @@ related_publications: false
   </section>
 
   <!-- Assessment -->
-  <section class="course280-section" id="assessment">
+  <section class="course-section" id="assessment">
     <h2>Assessment Structure</h2>
 
     <p>
@@ -303,45 +303,45 @@ related_publications: false
       examinations to evaluate practical and conceptual learning.
     </p>
 
-    <div class="course280-assessment">
+    <div class="course-assessment">
 
-      <div class="course280-assessment-row">
-        <div class="course280-assessment-label">
+      <div class="course-assessment-row">
+        <div class="course-assessment-label">
           <span>Programming Assignments</span>
           <strong>20%</strong>
         </div>
-        <div class="course280-bar">
-          <div class="course280-fill" style="width:20%"></div>
+        <div class="course-bar">
+          <div class="course-fill" style="width:20%"></div>
         </div>
       </div>
 
-      <div class="course280-assessment-row">
-        <div class="course280-assessment-label">
+      <div class="course-assessment-row">
+        <div class="course-assessment-label">
           <span>Quizzes</span>
           <strong>5%</strong>
         </div>
-        <div class="course280-bar">
-          <div class="course280-fill" style="width:5%"></div>
+        <div class="course-bar">
+          <div class="course-fill" style="width:5%"></div>
         </div>
       </div>
 
-      <div class="course280-assessment-row">
-        <div class="course280-assessment-label">
+      <div class="course-assessment-row">
+        <div class="course-assessment-label">
           <span>Midterm Examination</span>
           <strong>20%</strong>
         </div>
-        <div class="course280-bar">
-          <div class="course280-fill" style="width:20%"></div>
+        <div class="course-bar">
+          <div class="course-fill" style="width:20%"></div>
         </div>
       </div>
 
-      <div class="course280-assessment-row">
-        <div class="course280-assessment-label">
+      <div class="course-assessment-row">
+        <div class="course-assessment-label">
           <span>Final Examination</span>
           <strong>55%</strong>
         </div>
-        <div class="course280-bar">
-          <div class="course280-fill" style="width:55%"></div>
+        <div class="course-bar">
+          <div class="course-fill" style="width:55%"></div>
         </div>
       </div>
 
@@ -349,7 +349,7 @@ related_publications: false
   </section>
 
   <!-- Programming Environment -->
-  <section class="course280-section" id="environment">
+  <section class="course-section" id="environment">
     <h2>Programming Environment</h2>
 
     <p>
@@ -367,7 +367,7 @@ related_publications: false
   </section>
 
   <!-- Resources -->
-  <section class="course280-section" id="resources">
+  <section class="course-section" id="resources">
     <h2>Course Resources</h2>
 
     <p>
@@ -381,7 +381,7 @@ related_publications: false
       Fifth Edition, 2021.
     </p>
 
-    <div class="course280-resources">
+    <div class="course-resources">
       <a href="https://catalogue.usask.ca/CMPT-280"
          target="_blank" rel="noopener noreferrer">
         <i class="fa-solid fa-graduation-cap"></i>
@@ -401,14 +401,14 @@ related_publications: false
       </a>
     </div>
 
-    <p class="course280-small-note">
+    <p class="course-small-note">
       Additional instructional materials may be shared subject
       to university policies and copyright permissions.
     </p>
   </section>
 
   <!-- Academic Integrity -->
-  <section class="course280-section" id="integrity">
+  <section class="course-section" id="integrity">
     <h2>Academic Integrity and Responsible AI Use</h2>
 
     <p>
@@ -426,10 +426,10 @@ related_publications: false
   </section>
 
   <!-- Teaching Reflection -->
-  <section class="course280-section" id="reflection">
+  <section class="course-section" id="reflection">
     <h2>Teaching Reflection</h2>
 
-    <div class="course280-reflection">
+    <div class="course-reflection">
       <i class="fa-solid fa-lightbulb"></i>
       <div>
         <p>
