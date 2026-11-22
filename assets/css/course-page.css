@@ -1,12 +1,3 @@
-/* ==========================================================
-   Academic Course Pages - al-folio
-   Shared styles for CMPT 280, CMPT 370, and future courses
-   ========================================================== */
-
-/* ----------------------------------------------------------
-   1. General Course Container
-   ---------------------------------------------------------- */
-
 .course {
   --course-accent: var(--global-theme-color, #b600b3);
   --course-text: var(--global-text-color, #222);
