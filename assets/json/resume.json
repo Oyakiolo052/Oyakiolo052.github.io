@@ -171,20 +171,39 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  
+"interests": [
+  {
+    "name": "Empirical Software Engineering",
+    "icon": "fa-solid fa-chart-line",
+    "summary": "Applying repository mining, developer studies, and data-driven methods to understand software development practices, identify challenges, and develop empirically grounded improvements."
+  },
+  {
+    "name": "Human-Centered Software Engineering",
+    "icon": "fa-solid fa-users",
+    "summary": "Investigating developer satisfaction, communication, collaboration, cognitive workload, psychological safety, and sustainable participation in software development."
+  },
+  {
+    "name": "Modern Code Review and Software Quality",
+    "icon": "fa-solid fa-code-branch",
+    "summary": "Improving code review effectiveness through better reviewer assignment, code comprehension, review feedback, and coordination while supporting software quality and developer experience."
+  },
+  {
+    "name": "Trustworthy and Accountable AI for Software Engineering",
+    "icon": "fa-solid fa-shield-halved",
+    "summary": "Developing methods to make AI-generated software reviewable, verifiable, reliable, and accountable through independent assurance, risk-sensitive validation, and human oversight."
+  },
+  {
+    "name": "AI-Generated Code Review and Comprehension",
+    "icon": "fa-solid fa-magnifying-glass-code",
+    "summary": "Designing context-aware review assistants that identify relevant dependencies, unchanged files, and repository history to help reviewers understand and validate AI-generated changes."
+  },
+  {
+    "name": "Human-AI Collaboration in Software Development",
+    "icon": "fa-solid fa-people-group",
+    "summary": "Examining how AI coding agents reshape reviewer workload, human judgment, mentoring, knowledge transfer, expertise development, and long-term team sustainability."
+  }
+],
   "references": [
     {
       "name": "Professor John Doe",
