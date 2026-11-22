@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: CMPT 280
