@@ -110,13 +110,48 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Distinguished Reviewer Award",
+      "date": "2026",
+      "awarder": "3rd ACM International Conference on AI‑powered Software (AIware 2026)",
+      "url": "https://2026.aiwareconf.org/track/aiware-2026-papers#pagetab-57146520-0150-4318-850b-420c7feae073",
+      "summary": "Recognized for providing high-quality, thorough, and constructive peer reviews, demonstrating excellence and dedication to the scientific review process at AIware 2026."
+    },
+    {
+      "title": "Finalist, Research Excellence in STEM: Technology & Engineering Award",
+      "date": "2026",
+      "awarder": "University of Saskatchewan Graduate Students' Association (GSA)",
+      "url": "https://gsa.usask.ca/events/past-events/2026-gala.php",
+      "summary": "Selected as one of three finalists university-wide in recognition of outstanding research contributions and excellence in Technology and Engineering."
+    },
+    {
+      "title": "SOAR Distinguished Research (Honourable Mention) Award",
+      "date": "2025",
+      "awarder": "NSERC CREATE Software Analytics Research Symposium (SOAR), University of Saskatchewan",
+      "url": "https://soar.usask.ca/soar2025/",
+      "summary": "Recognized for distinguished research contributions and excellence in presenting innovative research at the SOAR Symposium 2025."
+    },
+    {
+      "title": "Ph.D. CS Citizenship Award (2024–2025)",
+      "date": "2025",
+      "awarder": "Department of Computer Science, University of Saskatchewan",
+      "url": "https://www.cs.usask.ca/news/2025/cs-graduate-students-honoured-at-research-fest-2025.php",
+      "summary": "Selected as the sole PhD recipient of the department's annual Citizenship Award, recognizing exceptional leadership, volunteerism, and contributions to the department's quality and reputation, particularly through serving as President of the Computer Science Graduate Council and leading Research Fest 2025."
+    },
+    {
+      "title": "Ph.D. CS Geddes Award (2024–2025)",
+      "date": "2025",
+      "awarder": "Department of Computer Science, University of Saskatchewan",
+      "url": "https://www.cs.usask.ca/news/2025/2024-2025-geddes-awards.php",
+      "summary": "Selected as the sole PhD recipient of the department's annual Geddes Award, recognizing exceptional academic achievement and research productivity in Computer Science."
+    },
+    {
+      "title": "SOAR Distinguished Research Award",
+      "date": "2024",
+      "awarder": "NSERC CREATE Software Analytics Research (SOAR) Symposium, University of Saskatchewan",
+      "url": "https://srlab.usask.ca/awards/",
+      "summary": "Recognized for distinguished research contributions to software engineering, particularly impactful research investigating incivility in modern code review discussions and its implications for developer experience and collaboration."
     }
-  ],
+  ]
   "certificates": [
     {
       "name": "Machine Learning",
