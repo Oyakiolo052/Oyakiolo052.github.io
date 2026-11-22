@@ -222,13 +222,23 @@
     "reference": "Associate Professor, Department of Computer Science, University of Saskatchewan, Canada.<br><strong>Relationship:</strong> PhD Co-supervisor.<br><strong>Email:</strong> <a href=\"mailto:zcodabux@cs.usask.ca\">zcodabux@cs.usask.ca</a><br><strong>Website:</strong> <a href=\"https://www.cs.usask.ca/faculty/zadiacodabux/\" target=\"_blank\" rel=\"noopener noreferrer\">Faculty Profile</a>"
   }
 ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ]
+  
+"certificates": [
+  {
+    "name": "Cisco Certified Network Associate (CCNA) Training",
+    "date": "",
+    "issuer": "Khulna University of Engineering & Technology (KUET), Bangladesh",
+    "url": "https://www.cisco.com/web/go/ccna/",
+    "icon": "fa-solid fa-network-wired",
+    "summary": "Completed CCNA training in computer networking, covering network fundamentals, IP addressing, routing and switching, network configuration, troubleshooting, and basic network security."
+  },
+  {
+    "name": "Information Technology Engineers Examination (ITEE)",
+    "date": "",
+    "issuer": "Bangladesh Computer Council (BCC), ICT Division, Government of Bangladesh",
+    "url": "https://bditec.gov.bd/about-itee/",
+    "icon": "fa-solid fa-certificate",
+    "summary": "Earned an IT qualification through the nationally administered ITEE program, aligned with Japan's Information-technology Promotion Agency (IPA) examination framework, assessing foundational knowledge and skills in information technology and computing."
+  }
+]
 }
