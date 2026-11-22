@@ -2,6 +2,8 @@
 layout: page
 title: CMPT 370
 description: Intermediate Software Engineering
+university: University of Saskatchewan
+semester: Winter 2025 and Fall 2025
 img: assets/img/12.jpg
 importance: 1
 category: Undergraduate
