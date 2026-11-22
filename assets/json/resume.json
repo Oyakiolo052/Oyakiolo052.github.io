@@ -195,7 +195,7 @@
   },
   {
     "name": "AI-Generated Code Review and Comprehension",
-    "icon": "fa-solid fa-magnifying-glass-code",
+    "icon": "fa-solid fa-magnifying-glass",
     "summary": "Designing context-aware review assistants that identify relevant dependencies, unchanged files, and repository history to help reviewers understand and validate AI-generated changes."
   },
   {
@@ -220,6 +220,12 @@
     "name": "Dr. Zadia Codabux",
     "icon": "fa-solid fa-user-tie",
     "reference": "Associate Professor, Department of Computer Science, University of Saskatchewan, Canada.<br><strong>Relationship:</strong> PhD Co-supervisor.<br><strong>Email:</strong> <a href=\"mailto:zcodabux@cs.usask.ca\">zcodabux@cs.usask.ca</a><br><strong>Website:</strong> <a href=\"https://www.cs.usask.ca/faculty/zadiacodabux/\" target=\"_blank\" rel=\"noopener noreferrer\">Faculty Profile</a>"
+  },
+  
+  {
+    "name": "Dr. Muhammad Sheikh Sadi",
+    "icon": "fa-solid fa-user-tie",
+    "reference": "Professor, Department of Computer Science and Engineering, Khulna University of Engineering & Technology (KUET), Bangladesh.<br><strong>Relationship:</strong> Undergraduate Thesis Supervisor.<br><strong>Email:</strong> <a href=\"mailto:sadi@cse.kuet.ac.bd\">sadi@cse.kuet.ac.bd</a><br><strong>Website:</strong> <a href=\"https://www.kuet.ac.bd/cse/sadi\" target=\"_blank\" rel=\"noopener noreferrer\">Faculty Profile</a>"
   }
 ],
   
