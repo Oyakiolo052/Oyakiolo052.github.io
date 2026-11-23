@@ -455,4 +455,209 @@ related_publications: false
     </div>
   </section>
 
+  <!-- Student Feedback and Teaching Evaluation -->
+  <section class="course-section" id="student-feedback">
+    <h2>Student Feedback and Teaching Evaluation</h2>
+
+    <p>
+      The University of Saskatchewan's End-of-Course
+      Student Learning Experience Questionnaire (SLEQ)
+      collected feedback on students' learning experiences,
+      the instructional environment, and course assessments
+      during Summer 2026.
+    </p>
+
+    <!-- Evaluation participation -->
+    <div class="course-info">
+      <div>
+        <span>Evaluation</span>
+        <strong>USask End-of-Course SLEQ</strong>
+      </div>
+
+      <div>
+        <span>Academic Term</span>
+        <strong>Summer 2026</strong>
+      </div>
+
+      <div>
+        <span>Responses Received</span>
+        <strong>45 of 63 students</strong>
+      </div>
+
+      <div>
+        <span>Response Rate</span>
+        <strong>71.4%</strong>
+      </div>
+    </div>
+
+    <!-- Quantitative evaluation results -->
+    <h3 style="margin-top: 30px; margin-bottom: 14px;">
+      Evaluation Highlights
+    </h3>
+
+    <p>
+      The following results represent the percentage of
+      respondents selecting one of the two most favourable
+      response options for each evaluation question.
+    </p>
+
+    <div class="course-grid">
+
+      <div class="course-card">
+        <i class="fa-solid fa-clipboard-check"></i>
+        <h3 style="font-size: 28px; margin-bottom: 8px;">
+          88.9%
+        </h3>
+        <p>
+          Reported that course assessments provided
+          opportunities to demonstrate their understanding
+          of the material.
+        </p>
+      </div>
+
+      <div class="course-card">
+        <i class="fa-solid fa-graduation-cap"></i>
+        <h3 style="font-size: 28px; margin-bottom: 8px;">
+          86.7%
+        </h3>
+        <p>
+          Reported that assignments, tests, and examinations
+          improved their understanding of the course material.
+        </p>
+      </div>
+
+      <div class="course-card">
+        <i class="fa-solid fa-chalkboard-user"></i>
+        <h3 style="font-size: 28px; margin-bottom: 8px;">
+          84.4%
+        </h3>
+        <p>
+          Reported that the instructor created an
+          environment that contributed to their learning.
+        </p>
+      </div>
+
+      <div class="course-card">
+        <i class="fa-solid fa-star"></i>
+        <h3 style="font-size: 28px; margin-bottom: 8px;">
+          75.6%
+        </h3>
+        <p>
+          Rated the overall quality of their learning
+          experience as very good or excellent.
+        </p>
+      </div>
+
+    </div>
+
+    <p class="course-small-note" style="margin-top: 14px;">
+      Source: University of Saskatchewan, End-of-Course SLEQ,
+      CMPT 280, Summer 2026 (45 responses).
+      Percent favourable reflects the two highest response
+      categories on each five-point scale.
+    </p>
+
+    <!-- Selected student comments -->
+    <h3 style="margin-top: 35px; margin-bottom: 14px;">
+      Selected Student Comments
+    </h3>
+
+    <p>
+      The following anonymous excerpts are reproduced from
+      students' written end-of-course feedback.
+    </p>
+
+    <div class="course-grid">
+
+      <div class="course-card">
+        <i class="fa-solid fa-quote-left"></i>
+        <h3>Conceptual Understanding</h3>
+
+        <p style="font-style: italic;">
+          "I really enjoyed the examples he showed and he
+          made many daunting concepts a lot easier to understand."
+        </p>
+
+        <p class="course-small-note" style="margin-top: 14px;">
+          Anonymous student | Summer 2026
+        </p>
+      </div>
+
+      <div class="course-card">
+        <i class="fa-solid fa-quote-left"></i>
+        <h3>Student Support</h3>
+
+        <p style="font-style: italic;">
+          "Overall, he was very supportive, approachable,
+          and a great instructor."
+        </p>
+
+        <p class="course-small-note" style="margin-top: 14px;">
+          Anonymous student | Summer 2026
+        </p>
+      </div>
+
+      <div class="course-card">
+        <i class="fa-solid fa-quote-left"></i>
+        <h3>Visual Teaching</h3>
+
+        <p style="font-style: italic;">
+          "having the code and the data structures written
+          down greatly helped me visualize what was going
+          on internally"
+        </p>
+
+        <p class="course-small-note" style="margin-top: 14px;">
+          Anonymous student | Summer 2026
+        </p>
+      </div>
+
+      <div class="course-card">
+        <i class="fa-solid fa-quote-left"></i>
+        <h3>Formative Assessment</h3>
+
+        <p style="font-style: italic;">
+          "The quizzes were great at providing immediate
+          feedback on my understanding of each concept."
+        </p>
+
+        <p class="course-small-note" style="margin-top: 14px;">
+          Anonymous student | Summer 2026
+        </p>
+      </div>
+
+    </div>
+
+    <!-- Reflection on student feedback -->
+    <h3 style="margin-top: 35px; margin-bottom: 14px;">
+      Reflection on Student Feedback
+    </h3>
+
+    <div class="course-reflection">
+      <i class="fa-solid fa-lightbulb"></i>
+
+      <div>
+        <p>
+          Student feedback highlighted the value of detailed
+          explanations, visual demonstrations, practical
+          examples, and individual learning support.
+        </p>
+
+        <p>
+          Students also identified opportunities to improve
+          the pacing of instruction in the compressed summer
+          term and the timely organization of course materials.
+        </p>
+
+        <p>
+          These observations provide useful directions for
+          refining course delivery, strengthening learning
+          resources, and supporting students with different
+          learning needs.
+        </p>
+      </div>
+    </div>
+
+  </section>
+
 </div>
