@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- Teaching Philosophy Stylesheet -->
-<link rel="stylesheet" href="{{ '/assets/css/teaching-philosophy.css' | relative_url }}">
+<link rel="stylesheet" href="/assets/css/teaching-philosophy.css">
 
 <!-- ======================================================
      TEACHING PHILOSOPHY
