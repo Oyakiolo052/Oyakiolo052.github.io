@@ -10,7 +10,7 @@ category: Undergraduate
 related_publications: false
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/course-page.css' | relative_url }}">
+<link rel="stylesheet" href="/assets/css/course-page.css">
 
 <div class="course cmpt280">
 
