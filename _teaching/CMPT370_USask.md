@@ -18,6 +18,7 @@ related_publications: false
   <div class="course-hero">
     <div class="course-labels">
       <span>Undergraduate</span>
+      <span>Winter 2025</span>
       <span>Fall 2025</span>
     </div>
 
