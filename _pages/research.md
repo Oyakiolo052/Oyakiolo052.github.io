@@ -165,6 +165,34 @@ nav_order: 3
 
     <div class="research-collaborator-grid">
 
+     <!-- Foutse Khomh -->
+      <div class="research-collaborator-card">
+
+        <img
+          src="/assets/img/collaborators/foutse.jpeg"
+          alt="Portrait of Foutse Khomh"
+          class="research-collaborator-photo"
+          loading="lazy"
+        >
+
+        <h3>Prof. Foutse Khomh</h3>
+
+        <p class="research-affiliation">
+          Polytechnique Montréal
+        </p>
+
+        <a
+          href="https://www.khomh.net/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="research-profile-link"
+        >
+          <i class="fa-solid fa-arrow-up-right-from-square"></i>
+          Website
+        </a>
+
+      </div>
+
       <!-- Chanchal K. Roy -->
       <div class="research-collaborator-card">
 
