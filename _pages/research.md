@@ -11,8 +11,12 @@ nav_order: 3
 
 <div class="research-page">
 
-  <!-- Research Introduction -->
+  <!-- ======================================================
+       RESEARCH INTRODUCTION
+       ====================================================== -->
+
   <div class="research-intro">
+
     <span class="research-eyebrow">
       <i class="fa-solid fa-flask"></i>
       RESEARCH
@@ -34,9 +38,14 @@ nav_order: 3
       trustworthy, particularly as AI coding agents
       increasingly participate in software development.
     </p>
+
   </div>
 
-  <!-- Current Research Projects -->
+
+  <!-- ======================================================
+       CURRENT RESEARCH PROJECTS
+       ====================================================== -->
+
   <section class="research-section" id="projects">
 
     <h2>
@@ -70,6 +79,7 @@ nav_order: 3
 
       </div>
 
+
       <!-- Project 2 -->
       <div class="research-project-card">
 
@@ -94,6 +104,7 @@ nav_order: 3
         </div>
 
       </div>
+
 
       <!-- Project 3 -->
       <div class="research-project-card">
@@ -124,7 +135,11 @@ nav_order: 3
 
   </section>
 
-  <!-- Research Collaborators -->
+
+  <!-- ======================================================
+       RESEARCH COLLABORATORS
+       ====================================================== -->
+
   <section class="research-section" id="collaborators">
 
     <h2>
@@ -139,24 +154,25 @@ nav_order: 3
       and related areas.
     </p>
 
-    <!-- Current Collaborators -->
+
+    <!-- ==================================================
+         CURRENT COLLABORATORS
+         ================================================== -->
+
     <h3 class="research-subheading">
       Current Collaborators
     </h3>
 
     <div class="research-collaborator-grid">
 
-      <!-- Replace with confirmed current collaborators -->
-
-      <div class="research-collaborator-grid">
-
-      <!-- Example collaborator -->
+      <!-- Chanchal K. Roy -->
       <div class="research-collaborator-card">
 
         <img
           src="/assets/img/collaborators/CRoy.jpeg"
           alt="Portrait of Chanchal K. Roy"
           class="research-collaborator-photo"
+          loading="lazy"
         >
 
         <h3>Prof. Chanchal K. Roy</h3>
@@ -165,22 +181,27 @@ nav_order: 3
           University of Saskatchewan
         </p>
 
-        <a href="https://www.cs.usask.ca/faculty/croy/"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="research-profile-link">
+        <a
+          href="https://www.cs.usask.ca/faculty/croy/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="research-profile-link"
+        >
           <i class="fa-solid fa-arrow-up-right-from-square"></i>
           Website
         </a>
 
       </div>
 
+
+      <!-- Zadia Codabux -->
       <div class="research-collaborator-card">
 
         <img
           src="/assets/img/collaborators/zcodabux.png"
           alt="Portrait of Zadia Codabux"
           class="research-collaborator-photo"
+          loading="lazy"
         >
 
         <h3>Dr. Zadia Codabux</h3>
@@ -189,22 +210,27 @@ nav_order: 3
           University of Saskatchewan
         </p>
 
-        <a href="https://www.cs.usask.ca/faculty/zadiacodabux/"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="research-profile-link">
+        <a
+          href="https://www.cs.usask.ca/faculty/zadiacodabux/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="research-profile-link"
+        >
           <i class="fa-solid fa-arrow-up-right-from-square"></i>
           Website
         </a>
 
       </div>
 
+
+      <!-- Khairul Alam -->
       <div class="research-collaborator-card">
 
         <img
           src="/assets/img/collaborators/khairul.png"
           alt="Portrait of Khairul Alam"
           class="research-collaborator-photo"
+          loading="lazy"
         >
 
         <h3>Khairul Alam</h3>
@@ -213,22 +239,27 @@ nav_order: 3
           University of Saskatchewan
         </p>
 
-        <a href="https://www.linkedin.com/in/khairul-alam-3563b1285/"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="research-profile-link">
+        <a
+          href="https://www.linkedin.com/in/khairul-alam-3563b1285/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="research-profile-link"
+        >
           <i class="fa-solid fa-arrow-up-right-from-square"></i>
           Website
         </a>
 
       </div>
 
+
+      <!-- Aronya Biraj Saha -->
       <div class="research-collaborator-card">
 
         <img
           src="/assets/img/collaborators/biraj.jpeg"
           alt="Portrait of Aronya Biraj Saha"
           class="research-collaborator-photo"
+          loading="lazy"
         >
 
         <h3>Aronya Biraj Saha</h3>
@@ -237,10 +268,12 @@ nav_order: 3
           University of Saskatchewan
         </p>
 
-        <a href="https://www.linkedin.com/in/biraj-saha-aronya-038499176/"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="research-profile-link">
+        <a
+          href="https://www.linkedin.com/in/biraj-saha-aronya-038499176/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="research-profile-link"
+        >
           <i class="fa-solid fa-arrow-up-right-from-square"></i>
           Website
         </a>
@@ -248,21 +281,27 @@ nav_order: 3
       </div>
 
     </div>
+    <!-- END CURRENT COLLABORATORS -->
 
-    <!-- Past Collaborators -->
+
+    <!-- ==================================================
+         PAST COLLABORATORS
+         ================================================== -->
+
     <h3 class="research-subheading">
       Past Collaborators
     </h3>
 
     <div class="research-collaborator-grid">
 
-      <!-- Example collaborator -->
+      <!-- Md Mustakim Billah -->
       <div class="research-collaborator-card">
 
         <img
           src="/assets/img/collaborators/mustakim.jpeg"
           alt="Portrait of Md Mustakim Billah"
           class="research-collaborator-photo"
+          loading="lazy"
         >
 
         <h3>Md Mustakim Billah</h3>
@@ -271,10 +310,12 @@ nav_order: 3
           Software Developer @Vendasta
         </p>
 
-        <a href="https://www.linkedin.com/in/mustakim-billah35/"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="research-profile-link">
+        <a
+          href="https://www.linkedin.com/in/mustakim-billah35/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="research-profile-link"
+        >
           <i class="fa-solid fa-arrow-up-right-from-square"></i>
           Website
         </a>
@@ -282,7 +323,10 @@ nav_order: 3
       </div>
 
     </div>
+    <!-- END PAST COLLABORATORS -->
 
   </section>
+  <!-- END RESEARCH COLLABORATORS -->
 
 </div>
+<!-- END RESEARCH PAGE -->
