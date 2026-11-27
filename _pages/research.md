@@ -151,18 +151,20 @@ nav_order: 3
       <div class="research-collaborator-card">
 
         <img
-          src="/assets/img/collaborators/collaborator1.jpg"
-          alt="Portrait of collaborator"
+          src="/assets/img/collaborators/khairul.png"
+          alt="Portrait of Khairul Alam"
           class="research-collaborator-photo"
         >
 
-        <h3>Collaborator Name</h3>
+        <h3>Khairul Alam</h3>
 
         <p class="research-affiliation">
-          University / Institution
+          University of Saskatchewan
         </p>
 
-        <a href="#"
+        <a href="https://www.linkedin.com/in/khairul-alam-3563b1285/"
+           target="_blank"
+           rel="noopener noreferrer"
            class="research-profile-link">
           <i class="fa-solid fa-arrow-up-right-from-square"></i>
           Website
