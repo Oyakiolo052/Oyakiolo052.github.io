@@ -148,6 +148,57 @@ nav_order: 3
 
       <!-- Replace with confirmed current collaborators -->
 
+      <div class="research-collaborator-grid">
+
+      <!-- Example collaborator -->
+      <div class="research-collaborator-card">
+
+        <img
+          src="/assets/img/collaborators/CRoy.jpeg"
+          alt="Portrait of Chanchal K. Roy"
+          class="research-collaborator-photo"
+        >
+
+        <h3>Prof. Chanchal K. Roy</h3>
+
+        <p class="research-affiliation">
+          University of Saskatchewan
+        </p>
+
+        <a href="https://www.cs.usask.ca/faculty/croy/"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="research-profile-link">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i>
+          Website
+        </a>
+
+      </div>
+
+      <div class="research-collaborator-card">
+
+        <img
+          src="/assets/img/collaborators/zcodabux.png"
+          alt="Portrait of Zadia Codabux"
+          class="research-collaborator-photo"
+        >
+
+        <h3>Dr. Zadia Codabux</h3>
+
+        <p class="research-affiliation">
+          University of Saskatchewan
+        </p>
+
+        <a href="https://www.cs.usask.ca/faculty/zadiacodabux/"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="research-profile-link">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i>
+          Website
+        </a>
+
+      </div>
+
       <div class="research-collaborator-card">
 
         <img
@@ -172,6 +223,30 @@ nav_order: 3
 
       </div>
 
+      <div class="research-collaborator-card">
+
+        <img
+          src="/assets/img/collaborators/biraj.jpeg"
+          alt="Portrait of Aronya Biraj Saha"
+          class="research-collaborator-photo"
+        >
+
+        <h3>Aronya Biraj Saha</h3>
+
+        <p class="research-affiliation">
+          University of Saskatchewan
+        </p>
+
+        <a href="https://www.linkedin.com/in/biraj-saha-aronya-038499176/"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="research-profile-link">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i>
+          Website
+        </a>
+
+      </div>
+
     </div>
 
     <!-- Past Collaborators -->
@@ -185,43 +260,18 @@ nav_order: 3
       <div class="research-collaborator-card">
 
         <img
-          src="/assets/img/collaborators/roy.jpg"
-          alt="Portrait of Chanchal K. Roy"
+          src="/assets/img/collaborators/mustakim.jpeg"
+          alt="Portrait of Md Mustakim Billah"
           class="research-collaborator-photo"
         >
 
-        <h3>Prof. Chanchal K. Roy</h3>
+        <h3>Md Mustakim Billah</h3>
 
         <p class="research-affiliation">
-          University of Saskatchewan
+          Software Developer @Vendasta
         </p>
 
-        <a href="https://www.cs.usask.ca/faculty/croy/"
-           target="_blank"
-           rel="noopener noreferrer"
-           class="research-profile-link">
-          <i class="fa-solid fa-arrow-up-right-from-square"></i>
-          Website
-        </a>
-
-      </div>
-
-      <!-- Example collaborator -->
-      <div class="research-collaborator-card">
-
-        <img
-          src="/assets/img/collaborators/codabux.jpg"
-          alt="Portrait of Zadia Codabux"
-          class="research-collaborator-photo"
-        >
-
-        <h3>Dr. Zadia Codabux</h3>
-
-        <p class="research-affiliation">
-          University of Saskatchewan
-        </p>
-
-        <a href="https://www.cs.usask.ca/faculty/zadiacodabux/"
+        <a href="https://www.linkedin.com/in/mustakim-billah35/"
            target="_blank"
            rel="noopener noreferrer"
            class="research-profile-link">
