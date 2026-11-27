@@ -1,0 +1,225 @@
+/* =============================================
+   Research Page - al-folio
+   ============================================= */
+
+.research-page {
+  --research-accent: var(--global-theme-color, #b600b3);
+  --research-text: var(--global-text-color, #222);
+  --research-border: var(--global-divider-color, #e5e5e5);
+  --research-bg: var(--global-card-bg-color, #fff);
+
+  color: var(--research-text);
+}
+
+/* Introduction */
+
+.research-intro {
+  margin-bottom: 45px;
+}
+
+.research-eyebrow {
+  color: var(--research-accent);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.research-eyebrow i {
+  margin-right: 6px;
+}
+
+.research-intro h2 {
+  margin-top: 12px;
+  margin-bottom: 18px;
+  font-weight: 650;
+}
+
+.research-intro p {
+  line-height: 1.8;
+}
+
+/* Sections */
+
+.research-section {
+  margin: 45px 0;
+}
+
+.research-section > h2 {
+  font-size: 1.5rem;
+  font-weight: 650;
+  border-bottom: 1px solid var(--research-border);
+  padding-bottom: 12px;
+  margin-bottom: 22px;
+}
+
+.research-section > h2 i {
+  color: var(--research-accent);
+  margin-right: 10px;
+}
+
+/* Project Cards */
+
+.research-project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.research-project-card {
+  background: var(--research-bg);
+  border: 1px solid var(--research-border);
+  border-radius: 10px;
+  padding: 23px;
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.research-project-card:hover {
+  border-color: var(--research-accent);
+  transform: translateY(-2px);
+}
+
+.research-project-header {
+  margin-bottom: 15px;
+}
+
+.research-status {
+  display: inline-block;
+  color: var(--research-accent);
+  border: 1px solid var(--research-accent);
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.research-project-card h3 {
+  font-size: 17px;
+  font-weight: 650;
+  margin-bottom: 12px;
+}
+
+.research-project-card p {
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+/* Tags */
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 18px;
+}
+
+.research-tags span {
+  font-size: 11px;
+  border: 1px solid var(--research-border);
+  padding: 4px 9px;
+  border-radius: 15px;
+}
+
+/* Collaborators */
+
+.research-subheading {
+  font-size: 1.15rem;
+  font-weight: 650;
+  margin-top: 32px;
+  margin-bottom: 20px;
+}
+
+.research-collaborator-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.research-collaborator-card {
+  background: var(--research-bg);
+  border: 1px solid var(--research-border);
+  border-radius: 10px;
+  padding: 25px 15px;
+  text-align: center;
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.research-collaborator-card:hover {
+  border-color: var(--research-accent);
+  transform: translateY(-2px);
+}
+
+/* Circular Photos */
+
+.research-collaborator-photo {
+  width: 105px;
+  height: 105px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  border: 3px solid var(--research-border);
+  margin: 0 auto 16px;
+  display: block;
+}
+
+/* Collaborator Details */
+
+.research-collaborator-card h3 {
+  font-size: 15px;
+  font-weight: 650;
+  margin-bottom: 7px;
+}
+
+.research-affiliation {
+  font-size: 12px;
+  opacity: 0.8;
+  margin-bottom: 12px;
+}
+
+.research-profile-link {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--research-accent);
+  text-decoration: none;
+}
+
+.research-profile-link:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+
+@media (max-width: 768px) {
+  .research-project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .research-collaborator-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .research-collaborator-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .research-project-card {
+    padding: 18px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .research-project-card,
+  .research-collaborator-card {
+    transition: none;
+  }
+
+  .research-project-card:hover,
+  .research-collaborator-card:hover {
+    transform: none;
+  }
+}
